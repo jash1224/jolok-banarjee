@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jolok-banarjee
-- 👀 I’m interested in playing football and cricket.
+- 👀 I’m interested in playing with code.
 - 🌱 I’m currently learning different programming languages.
 
 <!---
