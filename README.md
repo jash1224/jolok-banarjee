@@ -1,3 +1,4 @@
+### <img src="aero.gif">
 - 👋 Hi, I’m @jolok-banarjee
 - 👀 I’m interested in playing with code.
 - 🌱 I’m currently learning different programming languages.
