@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jolok-banarjee
-### <img src="aero.gif">
+### <img src="aero.gif" width="320" height="240">
 - 👀 I’m interested in playing with code. Future Aerospace Engineer.
 - 🌱 I’m currently learning different programming languages.
 - 📫 How to reach me: 
