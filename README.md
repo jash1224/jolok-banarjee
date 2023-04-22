@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @jolok-banarjee
 ### <img src="aero.gif" width="420" height="315">
-- 👀 I’m interested in coding. 🌱 I’m currently Studing B.Sc in Aeronautical Engineering (Aerospace) and learning different programming languages.
+- 👀 I’m interested in coding. 🌱 I’m currently Studing B.Sc in Aerospace Engineering and learning different programming languages.
 - 📫 How to reach me: 
 ## GitHub: [@jolok-banarjee](https://github.com/jolok-banarjee) LinkedIn: [Jolok Banarjee](https://www.linkedin.com/in/jolok-banarjee-16825b1b7/)
 
